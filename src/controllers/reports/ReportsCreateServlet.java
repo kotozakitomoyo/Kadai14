@@ -3,6 +3,7 @@ package controllers.reports;
 import java.io.IOException;
 import java.sql.Date;
 import java.sql.Timestamp;
+import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.servlet.RequestDispatcher;
